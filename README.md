@@ -1,6 +1,6 @@
 
-# [Your Name]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+# Abhijeet Dey
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/abhijeet-dey-chicago/)])
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
 ## 🚀 Machine Learning | AI | Software Engineering 
