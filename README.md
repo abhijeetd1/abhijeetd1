@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**abhijeetd1/abhijeetd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Your Name]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
-Here are some ideas to get you started:
+## 🚀 Machine Learning | AI | Software Engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer crafting end-to-end solutions. Combining software architecture expertise with AI/ML knowledge to build reliable, scalable, and intelligent systems. Currently focused on Machine Learning, AI and cloud native solutions. 
+
+### 🛠️ Tech Stack
+```python
+{
+    'Languages': ['Python', 'Java'],
+    'ML/DL': ['TensorFlow', 'PyTorch', 'scikit-learn', 'Keras'],
+    'Data Processing': ['Pandas', 'NumPy', 'PySpark'],
+    'Visualization': ['Matplotlib', 'Seaborn', 'Plotly'],
+    'Development': ['Git', 'Docker', 'VS Code'],
+    'Cloud': ['AWS', 'GCP']  
+}
